@@ -1,6 +1,10 @@
 # ML_deployment_flask
 This is a project to elaborate how Machine Learning Models are deployed on production using Flask API
+
+
 Project Structure
+
+
 This project has four major parts :
 
 model.py - This contains code fot our Machine Learning model to predict employee salaries based on trainign data in 'hiring.csv' file.
